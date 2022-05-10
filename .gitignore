@@ -1,4 +1,4 @@
-**/.vs
-**/*.DotSettings*
-**/**/obj
-**/**/bin
+.vs
+*.DotSettings*
+**/obj
+**/bin
