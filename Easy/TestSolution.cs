@@ -2,6 +2,7 @@
 
 namespace Easy;
 
+[TestFixture]
 public class TestSolution
 {
     [TestCase(new[] {2, 7, 11, 15}, 9)]
